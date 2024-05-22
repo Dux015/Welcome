@@ -1,6 +1,6 @@
 # Welcome
 
-welcome to my profile :heart
+welcome to my profile.
 this was made in an class as a test, but feel free to just see it ._.
 - I study at Tozzi
 - I'm "learning" java script
